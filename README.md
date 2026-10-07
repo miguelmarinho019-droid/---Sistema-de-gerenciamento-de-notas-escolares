@@ -14,4 +14,6 @@ Cada decisão ela me mandava um novo dilema e um desafio, porém chega um ponto 
 Eu tive muita dificuldade em fazer esse sistema ( Muita mesmo) por conta das funções separadas e coisas que não estou costumado ver.
 Pedi ajuda dela em todo o processo, mandando as minhas linhas e verificando o que estava de acordo ou não.
 Este foi o resultado que cheguei, no inicio fiz mais de 200 linhas de códigos mas com a ajuda dela eu criei uma função que atua como um menu, facilitando a utilização e organização do código.
-Pude perceber que desenvolvendo funções, ocorre algo muito interessante, uma consegue chamar outra. É algo que embaralha um pouco a cabeça mas acredito que com a prática constante ela possa se torna algo mais claro.
+Pude perceber que desenvolvendo funções, faz ocorrer algo muito interessante, uma consegue chamar outra. É algo que embaralha um pouco a cabeça mas acredito que com a prática constante ela possa se torna algo mais claro.
+
+Eu quando comecei a pensar de qual forma eu iria executar esse sistema, tive várias ideias, e a IA (chatgpt) me guiou também para outros caminhos diferentes, trazendo elementos complexos e coisas que foram além do que foi requisitado na atividade. Eu aderi algumas ideias, porém não todas, pois o código ficaria muito extenso e seria muita informação, coisa que a própria atividade diz que deve ser algo "SIMPLIFICADO".
